@@ -104,6 +104,8 @@ Dev-C++ IDE with compiler is need. <br/>
 2. Install Dev-C++ - Integrated Development Environment for C++ with compiler
    `https://www.bloodshed.net/`
    <br/>
+   <b>It's important not to use UNIX based compiler for this project like g++ or cpp. <br>
+   This project run natively only in Windows OS. </b>
    <br/>
 3. Open file `final_proj.cpp` from final_project directory into IDE
 4. Compile source file and after that run compiled binary `final_proj.exe`
