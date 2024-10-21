@@ -99,7 +99,7 @@ Dev-C++ IDE with compiler is need. <br/>
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dominik-stec/Cpp_PJA.git
+   git clone https://github.com/dominik-stec/Cpp.git
    ```
 2. Install Dev-C++ - Integrated Development Environment for C++ with compiler
    `https://www.bloodshed.net/`
