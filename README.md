@@ -195,16 +195,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Cpp_PJA.svg?style=for-the-badge
-[contributors-url]: https://github.com/dominik-stec/Cpp_PJA/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Cpp_PJA.svg?style=for-the-badge
-[forks-url]: https://github.com/dominik-stec/Cpp_PJA/network/members
-[stars-shield]: https://img.shields.io/github/stars/dominik-stec/Cpp_PJA.svg?style=for-the-badge
-[stars-url]: https://github.com/dominik-stec/Cpp_PJA/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dominik-stec/Cpp_PJA.svg?style=for-the-badge
-[issues-url]: https://github.com/dominik-stec/Cpp_PJA/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Cpp.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/Cpp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Cpp.svg?style=for-the-badge
+[forks-url]: https://github.com/dominik-stec/Cpp/network/members
+[stars-shield]: https://img.shields.io/github/stars/dominik-stec/Cpp.svg?style=for-the-badge
+[stars-url]: https://github.com/dominik-stec/Cpp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dominik-stec/Cpp.svg?style=for-the-badge
+[issues-url]: https://github.com/dominik-stec/Cpp/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dominik-stec/Cpp_PJA/blob/master/LICENSE.md
+[license-url]: https://github.com/dominik-stec/Cpp/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
